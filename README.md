@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kshitija More</h1>
+<h3 align="center">M.Sc. Computer Science Student | AI & Full Stack Developer</h3>
 
-<!--
-**KshitijaMore07/KshitijaMore07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 M.Sc. Computer Science – Fergusson College, Pune  
+💻 Passionate about AI, Machine Learning & Full Stack Development  
+📊 Building intelligent and scalable applications  
+🚀 Goal: Data Scientist / Software Engineer  
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Programming
+Python | Java | C | C++ | PHP  
+
+### 🌐 Web Development
+HTML | CSS | JavaScript | React  
+
+### 📱 Mobile
+React Native  
+
+### 🗄 Databases
+PostgreSQL | MySQL  
+
+### 📊 Data Science
+Pandas | NumPy | Scikit-Learn | Jupyter  
+
+---
+
+## 🚀 Featured Projects
+
+🔹 Expense Tracker Application (Python)  
+🔹 PharmaAgent – AI-based Medicine Inventory System  
+🔹 Car Price Prediction (Machine Learning)  
+🔹 Optimal Merge Pattern (DSA Implementation)  
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=KshitijaMore07&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KshitijaMore07&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/kshitija-more-99377134a  
+📊 LeetCode: https://leetcode.com/u/Kshitija_More/  
+
+---
+
+⭐ Always learning. Always building.
