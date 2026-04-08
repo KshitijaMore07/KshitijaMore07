@@ -50,6 +50,13 @@ Pandas | NumPy | Scikit-Learn | Jupyter
 
 ---
 
+
+
+## 🔥 LeetCode Activity Graph
+
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/Kshitija_More?ext=heatmap)
+
+
 ## 🌐 Connect With Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/kshitija-more-99377134a  
