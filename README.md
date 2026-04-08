@@ -18,7 +18,10 @@
 Python | Java | C | PHP  
 
 ### 🌐 Web Development
-HTML | CSS | JavaScript | React | Node.js  
+HTML | CSS | JavaScript | React 
+
+### ⚙️ Backend Development
+Node.js | .NET (ASP.NET)
 
 ### 📱 Mobile
 React Native  
