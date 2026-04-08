@@ -15,16 +15,16 @@
 ## 🛠 Technical Skills
 
 ### 💻 Programming
-Python | Java | C | C++ | PHP  
+Python | Java | C | PHP  
 
 ### 🌐 Web Development
-HTML | CSS | JavaScript | React  
+HTML | CSS | JavaScript | React | Node.js  
 
 ### 📱 Mobile
 React Native  
 
 ### 🗄 Databases
-PostgreSQL | MySQL  
+PostgreSQL | MySQL | MongoDB  
 
 ### 📊 Data Science
 Pandas | NumPy | Scikit-Learn | Jupyter  
@@ -33,15 +33,19 @@ Pandas | NumPy | Scikit-Learn | Jupyter
 
 ## 🚀 Featured Projects
 
+🔹 **Crypto-Arithmetic CSP Solver (Full Stack)**
+- Solves letter-digit puzzles like SEND + MORE = MONEY  
+- Implemented using **Constraint Satisfaction Problem (CSP)**  
+- Used **Backtracking with Constraint Propagation**  
+- Step-by-step solution visualization with carry handling  
+- Tech Stack: **Python (Flask) + React.js**  
+
 🔹 Expense Tracker Application (Python)  
 🔹 PharmaAgent – AI-based Medicine Inventory System  
 🔹 Car Price Prediction (Machine Learning)  
 🔹 Optimal Merge Pattern (DSA Implementation)  
 
 ---
-
-
-
 
 ## 🌐 Connect With Me
 
