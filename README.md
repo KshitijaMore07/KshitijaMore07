@@ -21,7 +21,7 @@ Python | Java | C | PHP
 HTML | CSS | JavaScript | React 
 
 ### ⚙️ Backend Development
-Node.js | .NET (ASP.NET)
+Node.js | Express.js | ASP.NET Core (.NET)
 
 ### 📱 Mobile
 React Native  
