@@ -21,7 +21,7 @@ Python | Java | C | PHP
 HTML | CSS | JavaScript | React 
 
 ### ⚙️ Backend Development
-Node.js | Express.js | ASP.NET Core (.NET) | Flask
+Node.js | Express.js | ASP.NET Core (.NET) | Flask | Spring Boot
 
 ### 📱 Mobile
 React Native  
@@ -35,6 +35,7 @@ Pandas | NumPy | Scikit-Learn | Jupyter
 ---
 
 🚀 Featured Projects
+
 🔹 Jatayu Airlines Management System (Desktop Application)
 
 A full-featured airline management system built using C# Windows Forms and SQL Server, simulating real-world airline operations with secure role-based access and transactional integrity.
